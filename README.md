@@ -1,16 +1,14 @@
-# Julia Garcia
+# 👩‍💻 Julia Garcia
 
 Aprendiz de Desenvolvimento de Sistemas na WEG | Estudante de Engenharia de Software | Foco em aprendizado contínuo e desenvolvimento de soluções
 
 ---
 
-## Sobre
+## 🙋‍♀️ Sobre
 
-Sou **aprendiz de Desenvolvimento de Sistemas na WEG** e estudante de **Engenharia de Software**, onde tenho a oportunidade de aplicar e expandir meus conhecimentos em tecnologia diariamente. Estou em uma fase de intenso aprendizado, explorando diferentes áreas do desenvolvimento de software — desde o **front-end** até **mobile**, **back-end**, e boas práticas de versionamento e colaboração em equipe.
+Sou **aprendiz de Desenvolvimento de Sistemas na WEG** e também curso **Engenharia de Software**. Tenho paixão por tecnologia e estou constantemente explorando diferentes áreas do desenvolvimento — desde o **front-end**, **mobile**, até **back-end** e boas práticas de versionamento e colaboração.
 
-Meu objetivo é me tornar uma profissional versátil e preparada para atuar em diferentes contextos da tecnologia, com domínio técnico, pensamento crítico e visão de produto.
-
-Gosto de aprender na prática, enfrentar desafios técnicos e participar de projetos colaborativos que me permitam crescer com outras pessoas desenvolvedoras. Estou construindo uma base sólida com dedicação e curiosidade.
+💡 Gosto de aprender na prática, enfrentar desafios e participar de projetos colaborativos com pessoas que também amam tecnologia. Estou construindo minha jornada com muita dedicação, curiosidade e vontade de crescer!
 
 ---
 
@@ -30,11 +28,11 @@ Gosto de aprender na prática, enfrentar desafios técnicos e participar de proj
 
 ## 👥 Projetos em colaboração
 
-Participo ativamente de projetos em equipe, mesmo que nem todos estejam sob minha autoria direta no GitHub. Alguns dos principais:
+Participo de projetos em equipe, mesmo que nem todos estejam sob minha autoria direta no GitHub. Alguns deles:
 
-- [goarrival (raquel1s)](https://github.com/raquel1s/goarrival) – Contribuição em funcionalidades (17 commits)
-- [WegOne (raquel1s)](https://github.com/raquel1s/WegOne) – Suporte em implementação e melhorias
-- [JogoDaVelha (raquel1s)](https://github.com/raquel1s/JogoDaVelha) – Participação no desenvolvimento do jogo
+- 🔗 [goarrival (raquel1s)](https://github.com/raquel1s/goarrival) – Projeto diário de viajens em Flutter
+- 🔗 [WegOne (raquel1s)](https://github.com/raquel1s/WegOne) – Sistema com front-end em JavaScript e back-end em Java (Spring Boot) integrando banco de dados 
+- 🔗 [JogoDaVelha (raquel1s)](https://github.com/raquel1s/JogoDaVelha) – Projeto em flutter
 
 ---
 
@@ -42,15 +40,15 @@ Participo ativamente de projetos em equipe, mesmo que nem todos estejam sob minh
 
 Alguns dos projetos que desenvolvi individualmente:
 
-- [**tripApp**](https://github.com/julia-gg-silva/tripApp) – Desafio de app mobile
-- [**studio_ghibli_api**](https://github.com/julia-gg-silva/studio_ghibli_api) – Consumo de API usando flutter
-- [**Wheather_app**](https://github.com/julia-gg-silva/Wheather_app) – Aplicativo de clima simples em flutter
+- 📱 [**tripApp**](https://github.com/julia-gg-silva/tripApp) – Desafio de app mobile em flutter
+- 🎞️ [**studio_ghibli_api**](https://github.com/julia-gg-silva/studio_ghibli_api) – Consumo de API usando flutter
+- 🌦️ [**Wheather_app**](https://github.com/julia-gg-silva/Wheather_app) – Aplicativo de clima simples em flutter
 
 ---
 
 ## 📫 Contato
 
-**Email:** [juliagabrieligarc@gmail.com](juliagabrieligarc@gmail.com)
-**Linkedin:** [https://www.linkedin.com/in/julia-garcia-54276a30a/](https://www.linkedin.com/in/julia-garcia-54276a30a/)
+** ✉️  Email:** [juliagabrieligarc@gmail.com](juliagabrieligarc@gmail.com)
+** 💼 Linkedin:** [https://www.linkedin.com/in/julia-garcia-54276a30a/](https://www.linkedin.com/in/julia-garcia-54276a30a/)
 
 Sinta-se à vontade para explorar meus projetos ou entrar em contato para oportunidades de colaboração.
