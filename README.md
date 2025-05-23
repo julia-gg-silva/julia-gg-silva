@@ -48,7 +48,7 @@ Alguns dos projetos que desenvolvi individualmente:
 
 ## 📫 Contato
 
-** ✉️  Email:** [juliagabrieligarc@gmail.com](juliagabrieligarc@gmail.com)
-** 💼 Linkedin:** [https://www.linkedin.com/in/julia-garcia-54276a30a/](https://www.linkedin.com/in/julia-garcia-54276a30a/)
+**✉️  Email:** [juliagabrieligarc@gmail.com](juliagabrieligarc@gmail.com)
+**💼 Linkedin:** [https://www.linkedin.com/in/julia-garcia-54276a30a/](https://www.linkedin.com/in/julia-garcia-54276a30a/)
 
 Sinta-se à vontade para explorar meus projetos ou entrar em contato para oportunidades de colaboração.
