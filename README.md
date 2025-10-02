@@ -12,7 +12,7 @@ Sou **aprendiz de Desenvolvimento de Sistemas na WEG** e também curso **Engenha
 
 ---
 
-## 🚀 Tecnologias em estudo  
+## 🚀 Tecnologias e Ferramentas  
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   
