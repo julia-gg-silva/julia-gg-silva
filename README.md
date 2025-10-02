@@ -33,7 +33,7 @@ Participo de projetos em equipe, mesmo que nem todos estejam sob minha autoria d
 - 🔗 [goarrival (raquel1s)](https://github.com/raquel1s/goarrival) – Projeto diário de viagens em Flutter
 - 🔗 [WegOne (raquel1s)](https://github.com/raquel1s/WegOne) – Sistema com front-end em JavaScript e back-end em Java (Spring Boot) integrando banco de dados 
 - 🔗 [JogoDaVelha (raquel1s)](https://github.com/raquel1s/JogoDaVelha) – Projeto em flutter
-- 🔗 [CitrusDocs (raquel1s)](https://github.com/raquel1s/CitrusDocs) - Projeto em Java, documentação de sistemas
+- 🔗 [CitrusDocs (raquel1s)](https://github.com/raquel1s/CitrusDocs) - Projeto em NextJS, documentação de sistemas
 
 ---
 
