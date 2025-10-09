@@ -36,7 +36,7 @@ Sou **aprendiz de Desenvolvimento de Sistemas na WEG** e também curso **Engenha
 
 ## 👥 Projetos em colaboração
 
-Participo de projetos em equipe, mesmo que nem todos estejam sob minha autoria direta no GitHub. Alguns deles:
+Projetos em equipe:
 
 - 🔗 [goarrival (raquel1s)](https://github.com/raquel1s/goarrival) – Projeto diário de viagens em Flutter
 - 🔗 [WegOne (raquel1s)](https://github.com/raquel1s/WegOne) – Sistema com front-end em JavaScript e back-end em Java (Spring Boot) integrando banco de dados 
